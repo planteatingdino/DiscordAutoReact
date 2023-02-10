@@ -13,7 +13,7 @@ Step 4: Make sure the emoji you want the bot to react with is in "Frequently Use
 
 Step 5: Copy the code from "DiscordAutoReactScript.txt" and paste it in the Developer Tools Console
 
-Steo 6: Press "t" to make "AutoMouseMover.py" runs (it should say "Auto mouse mover is on." in the terminal window)
+Steo 6: Press "t" to make "AutoMouseMover.py" run (it should say "Auto mouse mover is on." in the terminal window)
 
 
 TIPS:
