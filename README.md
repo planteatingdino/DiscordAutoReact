@@ -11,9 +11,9 @@ Step 3: Open "AutoMouseMover.py"
 
 Step 4: Make sure the emoji you want the bot to react with is in "Frequently Used" (the default emoji for the bot to react with is the "Man Detective🕵️‍♂️" emoji but this can be changed)
 
-Step 4: Copy the code from "DiscordAutoReactScript.txt" and paste it in the Developer Tools Console
+Step 5: Copy the code from "DiscordAutoReactScript.txt" and paste it in the Developer Tools Console
 
-Steo 5: Press "t" to make "AutoMouseMover.py" run (it should say "Auto mouse mover is on." in the terminal window)
+Steo 6: Press "t" to make "AutoMouseMover.py" run (it should say "Auto mouse mover is on." in the terminal window)
 
 Tips:
 1: Make sure your Discord window is at full size
