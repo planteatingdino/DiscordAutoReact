@@ -1,0 +1,14 @@
+function autoAddReactions() {
+if (document.getElementsByClassName("message-2CShn3")[0]) {
+reacted = false;
+var latestMessage = document.querySelectorAll(".message-2CShn3");
+var allDivs = latestMessage[latestMessage.length -1].getElementsByTagName("div");
+for (var i = 0; i < allDivs.length; ++i) {
+    if (allDivs[i].classList.contains("reactionMe-1PwQAc")) {reacted = "true";}}
+if (reacted == false) {
+var addReactionButton = document.querySelectorAll('[aria-label="Add Reaction"]');
+if (addReactionButton[addReactionButton.length -1]) {
+addReactionButton[addReactionButton.length -1].click();
+document.querySelectorAll('[data-name="man_detective"]')[0].click();
+}}}}
+setInterval(autoAddReactions,1);
