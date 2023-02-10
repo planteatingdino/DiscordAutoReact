@@ -15,6 +15,7 @@ Step 5: Copy the code from "DiscordAutoReactScript.txt" and paste it in the Deve
 
 Steo 6: Press "t" to make "AutoMouseMover.py" run (it should say "Auto mouse mover is on." in the terminal window)
 
+
 TIPS:
 
 1: Make sure your Discord window is at full size
