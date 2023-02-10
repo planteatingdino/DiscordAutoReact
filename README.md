@@ -1,5 +1,5 @@
 # DiscordAutoReact
-This Discord self-bot automatically reacts to the latest message.
+This is a Discord self-bot and works in all servers that allow reactions. This self-bot does not need to be invited to the server since it is a self-bot and not a traditional bot. 
 
 INSTRUCTIONS:
 
