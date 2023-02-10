@@ -2,6 +2,7 @@
 This Discord self-bot automatically reacts to the latest message.
 
 Instructions:
+
 Step 1: Install Python
 Step 2: Install pynput & pyautogui
 Step 3: Open "AutoMouseMover.py"
