@@ -24,4 +24,4 @@ TIPS:
 
 3: If you wanna change the emoji the bot reacts with simply just have the wanted emoji in your "Frequently Used" and go to the "DiscordAutoReactScript.txt" file and replace 'man_detective' with the emoji name
 
-4: Refresh the page to stop reacting
+4: Refresh the page to stop the self-bot
